@@ -56,3 +56,10 @@
   
 </body>
 </html>
+
+
+explode → retira um determinado caractere do código 
+foreach → varre o array e passa o valor dele para um variável usando a tag (as).
+
+
+
